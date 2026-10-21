@@ -1,1 +1,10 @@
+project: HBA-X
+status: scaffold
+portfolio:
+  type: long_only
+  max_total_weight: 1.0
+research:
+  reference_repository: Benny-Tang/hba-provenance
+  benchmark_reproduction_status: not_started
+  final_holdout_must_remain_untouched: true
 
